@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# saas-funnel-analytics
-=======
 # Аналитика SaaS-product: Funnel, Retention & LTV/Churn
 
 Портфолио-проект продуктового аналитика: разбор пути пользователя от
@@ -188,4 +185,3 @@ challenges with the data. These assumptions and caveats are noted below:
   периодов наблюдения** из-за того же цензурирования — прямое
   сравнение retention across всех когорт корректно только в пределах
   периодов, доступных самой поздней из них.
->>>>>>> 52cf9e8f843c773b9939147dd13d3ba612ddb824
